@@ -1,0 +1,21 @@
+# KMapGen
+
+KMapGen is a Karnaugh Map Generator and Logic Gate Visualizer.
+
+## Features
+- Generates Karnaugh Maps (up to 4 variables).
+- Minimizes boolean expressions (SOP and POS forms) using the Quine-McCluskey algorithm.
+- Visualizes logic gate circuits in Basic Gates (AND/OR/NOT), NAND-only, and NOR-only configurations.
+- Fully client-side; no data leaves the browser.
+- PWA ready and fully offline-capable.
+
+## Project URLs
+- Production URL: https://kmapgen.nicx.dev/
+- GitHub Repository: https://github.com/nicx17/kmapgen
+- Author: Nick Cardoso (https://nickcardoso.com)
+
+## Implementation Details
+- Built with TypeScript and Vite.
+- Does not use external UI frameworks (React, Vue, etc.), strictly Vanilla DOM APIs.
+- Uses SVG for visualizing circuits and Karnaugh maps.
+- Supports dark and light modes.
