@@ -6,12 +6,9 @@
   <p><strong>A fast, fully client-side Karnaugh Map Generator and Logic Gate Visualizer.</strong></p>
 
   <p>
-    <a href="https://github.com/nicx17/kmapgen/actions/workflows/deploy.yml">
-      <img alt="CI/CD Status" src="https://img.shields.io/github/actions/workflow/status/nicx17/kmapgen/deploy.yml?style=for-the-badge&logo=githubactions&logoColor=white&color=2ea89a">
-    </a>
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-    <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
+    <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
     <a href="LICENSE">
       <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge">
     </a>
